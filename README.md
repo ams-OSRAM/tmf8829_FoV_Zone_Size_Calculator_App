@@ -4,7 +4,7 @@ TMF8829 Python utility to calculate FoV (field of view) and projected zone sizes
 
 ## Run program
 Executable in 
-[TMF8829_FoV_Zone_Size_Calculator_Window.exe](https://github.com/ams-OSRAM/tmf8829_FoV_Zone_Size_Calculator_App/releases/download/1v0/TMF8829_FoV_Zone_Size_Calculator_Window.exe) 
+[TMF8829_FoV_Zone_Size_Calculator.exe](https://github.com/ams-OSRAM/tmf8829_FoV_Zone_Size_Calculator_App/releases/download/1v0/TMF8829_FoV_Zone_Size_Calculator.exe) 
 respectively [latest release](https://github.com/ams-OSRAM/tmf8829_FoV_Zone_Size_Calculator_App/releases/latest) or run the Python program TMF8829_FoV_Zone_Size_Calculator.pyw
 
 ## Create exe program
