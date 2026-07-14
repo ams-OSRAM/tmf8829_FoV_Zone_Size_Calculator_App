@@ -1,5 +1,9 @@
 # Application to calculate field of view for TMF8829
-TMF8829 Python utility to calculate FoV (field of view) and projected zone sizes 
+TMF8829 Python utility to calculate FoV (field of view) and projected zone sizes.
+
+Additionally, a web tool version (Javascript) is released to https://github.com/ams-OSRAM/ams-OSRAM.github.io respectively 
+https://ams-osram.github.io/tmf8829/ams_osram_tmf8829_fov_calculator.html
+
 <img width="987" height="532" alt="image" src="https://github.com/user-attachments/assets/548a3679-7557-4643-9fd4-691e298c8650" />
 
 ## Run program
